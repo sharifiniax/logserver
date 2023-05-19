@@ -1,0 +1,32 @@
+2023/05/19 19:31:58 [INFO] example: This is a log message
+2023/05/19 19:32:32 [INFO] example: This is a new log message
+2023/05/19 19:32:41 [INFO] exae: This is a new log message
+2023/05/19 19:34:01 [INFO] exae: This is a new log message
+2023/05/19 19:34:04 [INFO] exae: This is a new log message
+2023/05/19 19:34:05 [INFO] exae: This is a new log message
+2023/05/19 19:37:33 [INFO] exae: This is a new log message
+2023/05/19 19:37:34 [INFO] exae: This is a new log message
+2023/05/19 19:47:52 [INFO] wsa: This is a new log message
+2023/05/19 19:48:03 [INFO] AAA: This is a new log message
+2023/05/19 19:50:12 [INFO] AAA: This is a new log message
+2023/05/19 19:50:14 [INFO] AAA: This is a new log message
+2023/05/19 19:50:15 [INFO] AAA: This is a new log message
+2023/05/19 19:50:17 [INFO] AAA: This is a new log message
+2023/05/19 19:50:24 [INFO] EDA: This is a new log message
+2023/05/19 19:57:12 [INFO] EDA: This is a new log message
+2023/05/19 19:57:14 [INFO] EDA: This is a new log message
+2023/05/19 19:57:18 [INFO] EDA: This is a new log message
+2023/05/19 19:57:19 [INFO] EDA: This is a new log message
+2023/05/19 19:58:33 [INFO] EDA: This is a  2 w log message
+2023/05/19 19:58:50 [INFO] EDA: This is a  2 w log message
+2023/05/19 20:03:42 [INFO] EDA: This is a  2 w log message
+2023/05/19 20:03:52 [INFO] EDA: This is a  2 w log message
+2023/05/19 20:04:06 [INFO] EDA: This is a  3 w log message
+2023/05/19 20:04:51 [INFO] EDA: This is a n2w log message
+2023/05/19 20:05:29 [ERROR] EDA: This is a n2w log message
+2023/05/19 20:07:30 [WARNING] EDA: This is a n2
+2023/05/19 20:27:53 [WARNING] Mew: this is an Error log
+2023/05/19 20:28:07 [WARNING] Mew: this is an 3rror log
+2023/05/19 20:28:35 [ERROR] Mew: this is an Error log
+2023/05/19 20:29:16 [ERROR] Mew: this is an Error log
+2023/05/19 20:29:39 [DEBUG] Mew: this is an Error log
