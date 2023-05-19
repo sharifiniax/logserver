@@ -1,7 +1,7 @@
 ### Install the required dependencies and run:
 
 <pre><code> 
-cd log-api
+cd logserver-master
 go mod download
 go run main.go
 </code></pre>
@@ -14,7 +14,7 @@ To send log messages to the API, make a POST request to the /logs endpoint with 
 
 ```json
 {
-  "level": "info",  // DEBUG, INFO, WARNING, ERROR
+  "level": "info",  
   "message": "This is an info log message",
   "tag": "myTag"
 }
